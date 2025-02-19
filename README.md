@@ -7,23 +7,6 @@
 I obtained this template from the [al-folio](https://github.com/alshedivat/al-folio) project.
 Big thanks to the maintainers listed below for developing this beautiful site template and keeping it open-source.
 
-### Maintainers
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="http://maruan.alshedivat.com"><br /><sub><b>Maruan</b></sub></a></td>
-    <td align="center"><a href="http://rohandebsarkar.github.io"><br /><sub><b>Rohan Deb Sarkar</b></sub></a></td>
-    <td align="center"><a href="https://amirpourmand.ir"><br /><sub><b>Amir Pourmand</b></sub></a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## License
 
