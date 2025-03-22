@@ -1,97 +1,106 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Vivek Sharma
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - title: Ph.D. Mechanical Engineering and Applied Mechanics
+      institution: University of Pennsylvania, GPA 3.8/4.0, Expected Graduation May 2026
+      year: 2021 - 2026
+    - title: M.S. Mechanical Engineering
+      institution: Indian Institute of Science (IISc), Bangalore, GPA 9/10
+      year: 2019 - 2021
+    - title: B.S. Mechanical Engineering
+      institution: Birla Institute of Technology and Science (BITS) – Pilani, GPA 9.4/10
+      year: 2015 - 2019
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Mechanobiology and Materials.
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Cancer cell migration and extracellular matrix mechanics.
+        - T-cell activation and immune synapse formation.
+        - Solid stress in cancer spheroids.
+    - title: Computational Biology.
       items:
-        - Description 1.
-        - Description 2.
+        - Deep learning for 3D chromatin structure prediction.
+        - Multi-modal integration of spatial and single-cell genomics.
+        - Transcriptomics and epigenomics.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD Student, Graduate Research Assistant
+      institution: University of Pennsylvania
+      year: 2021 - Present
+      description:
+        - Developed theoretical frameworks and computational models to investigate engineering and biological system interactions.
+        - Investigated cancer cell migration on viscoelastic substrates using Monte Carlo simulations.
+        - Formulated a mechano-electro-osmotic model for solid stress in cancer spheroids.
+        - Explored T-cell activation regulated by substrate stress relaxation.
+        - Developed AI-driven frameworks for 3D chromatin structure prediction.
+    - title: Graduate Research Assistant
+      institution: Indian Institute of Science (IISc), Bangalore
+      year: 2020 - 2021
+      description:
+        - Investigated wrinkling instabilities in tissue bi-layers using bio-inspired composites.
+        - Developed analytical models in ABAQUS to predict surface instabilities in bi-layer biological structures.
+    - title: Medical Device Intern
+      institution: Asian Institute of Gastroenterology, Bangalore
+      year: 2019
+      description:
+        - Designed a novel, low-cost medical device for endoscopy instruments.
+        - Developed a prototype using SolidWorks and integrated sensors for positional data analysis.
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Modeling and Analysis:</u> COMSOL, Monte Carlo, molecular dynamics, Blender, SolidWorks, AutoCAD, Creo, Ansys, ABAQUS.
+    - <u>Programming:</u> Python, MATLAB, C++, C, R, SQL, Arduino IDE, Maple.
+    - <u>Miscellaneous:</u> Git, Visual Studio, Microsoft Office Suite, GraphPad Prism, Inkscape, Image J.
+
+- title: Talks and Poster Presentations
+  type: list
+  contents:
+    - <b>Biophysical Society (BPS) Meeting, February 2024</b> - Substrate stress relaxation governs the transition from sub-diffusive to super-diffusive migration.
+    - <b>Biomedical Engineering Society (BMES), October 2023</b> - Substrate stress relaxation governs the transition from sub-diffusive to super-diffusive migration.
+    - <b>American Physical Society, March 2023</b> - Cell migration on viscoelastic substrates.
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Introduction to Mechanics - University of Pennsylvania.
+    - year: 2022
+      items:
+        - Principles and Techniques of Applied Mathematics - University of Pennsylvania.
+
+- title: Volunteer Service
+  type: list
+  contents:
+    - Reviewer for Biophysical Society Annual Meeting - 2024.
+    - Reviewer for Biomedical Engineering Society (BMES) - 2023.
+    - Served as a peer mentor for graduate students at University of Pennsylvania - 2022.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Outstanding Teaching Assistant (University of Pennsylvania).
+    - year: 2021
+      items:
+        - Graduated with distinction (Indian Institute of Science).
+    - year: 2019
+      items:
+        - All India Rank – 387/170,000 (Graduate Aptitude Test in Engineering – GATE).
+        - Graduated with distinction (Birla Institute of Technology and Science).
+
+- title: Languages
+  type: list
+  contents:
+    - English (Fluent), Hindi (Fluent).
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Reading, mentoring, traveling, staying active, and training for triathlons.
