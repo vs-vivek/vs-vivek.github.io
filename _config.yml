@@ -265,8 +265,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sharma]
+  first_name: [Vivek]
 
   style: apa
   locale: en
@@ -637,3 +637,5 @@ jsonresume:
   - languages
   - interests
   - references
+  - honors # Added honors section
+  - conferences # Added conferences section

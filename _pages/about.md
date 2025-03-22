@@ -6,8 +6,8 @@ subtitle: PhD Graduate Student in Mechanobiology @ <a href='https://shenoy.seas.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: prof_pic2.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Laboratory for Research on the Structure of Matter</p>
     <p>3231 Walnut Street</p>
@@ -52,9 +52,6 @@ Outside of work, I enjoy reading, mentoring, travelling, being outdoors, staying
 
 📚 **Passion for Teaching:**
 I’m passionate about education and mentorship. I find great joy in teaching complex concepts in accessible ways, and I regularly engage in opportunities to inspire the next generation of engineers. I strive to create an interactive, student-centered learning environment where students feel empowered to explore and learn. Check out my teaching page for more on this. 
-
-📢 **Let's Connect!**
-🔗 LinkedIn | 📧 viveksh@seas.upenn.edu | 🌐 [Website (if applicable)]
 
 ---
 
