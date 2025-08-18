@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD Graduate Student in Mechanobiology @ <a href='https://shenoy.seas.upenn.edu/'>Shenoy Lab, University of Pennsylvania</a>. 
 

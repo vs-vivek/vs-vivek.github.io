@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 4
 cv_pdf: Vivek_Resume_privacy.pdf # you can also use external links here
